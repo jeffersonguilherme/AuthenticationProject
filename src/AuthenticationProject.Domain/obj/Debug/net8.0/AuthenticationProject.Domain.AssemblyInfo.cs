@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthenticationProject.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042dce97e233a6959e007e13130d54c29739f603")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c24f63969607784e549fcc3924eefffb685b10fa")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("AuthenticationProject.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthenticationProject.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
