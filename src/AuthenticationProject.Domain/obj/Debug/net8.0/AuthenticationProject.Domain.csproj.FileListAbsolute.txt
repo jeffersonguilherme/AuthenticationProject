@@ -1,0 +1,12 @@
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\bin\Debug\net8.0\AuthenticationProject.Domain.deps.json
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\bin\Debug\net8.0\AuthenticationProject.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\bin\Debug\net8.0\AuthenticationProject.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\AuthenticationProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\AuthenticationProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\AuthenticationProject.Domain.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\AuthenticationProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\AuthenticationProject.Domain.sourcelink.json
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\AuthenticationProject.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\refint\AuthenticationProject.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\AuthenticationProject.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Domain\obj\Debug\net8.0\ref\AuthenticationProject.Domain.dll

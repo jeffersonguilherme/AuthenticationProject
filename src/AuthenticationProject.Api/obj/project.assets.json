@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net8.0": {
       "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
@@ -501,19 +501,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jefferson.silva\\.nuget\\packages\\": {}
+    "C:\\Users\\Jefferson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jefferson.silva\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Api\\AuthenticationProject.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Api\\AuthenticationProject.Api.csproj",
       "projectName": "AuthenticationProject.Api",
-      "projectPath": "C:\\Users\\jefferson.silva\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Api\\AuthenticationProject.Api.csproj",
-      "packagesPath": "C:\\Users\\jefferson.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jefferson.silva\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Api\\obj\\",
+      "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Api\\AuthenticationProject.Api.csproj",
+      "packagesPath": "C:\\Users\\Jefferson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jefferson.silva\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -523,14 +523,13 @@
       },
       "frameworks": {
         "net8.0": {
-          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jefferson.silva\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Application\\AuthenticationProject.Application.csproj": {
-              "projectPath": "C:\\Users\\jefferson.silva\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Application\\AuthenticationProject.Application.csproj"
+            "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Application\\AuthenticationProject.Application.csproj": {
+              "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Application\\AuthenticationProject.Application.csproj"
             },
-            "C:\\Users\\jefferson.silva\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Infrastructure\\AuthenticationProject.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\jefferson.silva\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Infrastructure\\AuthenticationProject.Infrastructure.csproj"
+            "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Infrastructure\\AuthenticationProject.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Infrastructure\\AuthenticationProject.Infrastructure.csproj"
             }
           }
         }
@@ -544,12 +543,10 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
-        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "Swashbuckle.AspNetCore": {
@@ -576,7 +573,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

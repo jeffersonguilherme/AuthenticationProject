@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AuthenticationProject.Application/1.0.0": {
+        "dependencies": {
+          "AuthenticationProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AuthenticationProject.Application.dll": {}
+        }
+      },
+      "AuthenticationProject.Domain/1.0.0": {
+        "runtime": {
+          "AuthenticationProject.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthenticationProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuthenticationProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

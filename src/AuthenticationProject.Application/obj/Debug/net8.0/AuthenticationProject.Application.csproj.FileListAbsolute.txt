@@ -1,0 +1,16 @@
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\bin\Debug\net8.0\AuthenticationProject.Application.deps.json
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\bin\Debug\net8.0\AuthenticationProject.Application.dll
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\bin\Debug\net8.0\AuthenticationProject.Application.pdb
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\bin\Debug\net8.0\AuthenticationProject.Domain.dll
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\bin\Debug\net8.0\AuthenticationProject.Domain.pdb
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.sourcelink.json
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\Authenti.BF01B4F6.Up2Date
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.dll
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\refint\AuthenticationProject.Application.dll
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\AuthenticationProject.Application.pdb
+C:\Users\Jefferson\Documents\GitHub\AuthenticationProject\src\AuthenticationProject.Application\obj\Debug\net8.0\ref\AuthenticationProject.Application.dll
