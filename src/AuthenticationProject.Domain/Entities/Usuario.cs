@@ -7,9 +7,9 @@ namespace AuthenticationProject.Domain.Entities;
 public class Usuario
 {
     public Guid Id { get; private set; }
-    public string NomeCompleto { get; private set; }
-    public string Matricula { get; private set; }
-    public EmailCorporativo Email { get; private set; }
+    public string NomeCompleto { get; private set; } = string.Empty;
+    public string Matricula { get; private set; } = string.Empty;
+    public EmailCorporativo? Email { get; private set; }
     public DateTime DataCriacao { get; private set; }
     public DateTime? DataAtualizacao { get; private set; }
 
