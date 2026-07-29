@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eU01GhaYs3o=",
+  "dgSpecHash": "0By+Ew0CWqs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Jefferson\\Documents\\GitHub\\AuthenticationProject\\src\\AuthenticationProject.Api\\AuthenticationProject.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jefferson\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Jefferson\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "C:\\Users\\Jefferson\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
     "C:\\Users\\Jefferson\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Jefferson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
